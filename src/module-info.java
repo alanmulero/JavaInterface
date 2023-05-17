@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author alan
- *
- */
-module byteBankInterface {
-}
